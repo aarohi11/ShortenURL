@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://rethinkaarohi:rethinkaarohi@cluster0.y9pyh.mongodb.net/test?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}

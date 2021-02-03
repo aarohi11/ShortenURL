@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.com/s?rh=n%3A21548575011&s=featured-rank&pd_rd_r=1fa7c75e-d398-44f2-8968-7f6be0e3a031&pd_rd_w=uXUNl&pd_rd_wg=IfsKV&pf_rd_p=a3017efa-484a-4451-8e04-665233584755&pf_rd_r=WCX3Q3R382FW8ETKTV1Y&ref=pd_gw_unk"
+}
